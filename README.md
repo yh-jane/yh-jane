@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalho como Desenvolvedora Full Stack PHP<br>🌱 Procuro aprender um pouquinho de tudo<br>Mas atualmente tenho focado em PHP e Ruby<br>⚡Uma coisa engraçada é que eu me esforço para aprender Ruby, porque acho o logo bonito<br>
+🔭 Já trabalhei um tempo como desenvolvedora, mas decidi voltar a ser suporte<br>🌱 Procuro aprender um pouquinho de tudo<br>Mas atualmente tenho focado em PHP e Ruby<br>⚡Uma coisa engraçada é que eu me esforço para aprender Ruby, porque acho o logo bonito<br>
 🙃 Estou ainda em melhorias do meu GitHub, tentando trazer os pequenos projetos de estudo que realizo<br>
 
 
